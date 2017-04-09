@@ -22,8 +22,8 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>1.6</source>
-          <target>1.6</target>
+          <source>1.7</source>
+          <target>1.7</target>
         </configuration>
       </plugin>
       <plugin>
@@ -50,7 +50,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-jdbc</artifactId>
-      <version>3.1.0.M1</version>
+      <version>4.3.1.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -68,7 +68,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>3.1.0.M1</version>
+      <version>4.3.1.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -86,7 +86,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-test</artifactId>
-      <version>3.1.0.M1</version>
+      <version>4.3.1.RELEASE</version>
       <scope>test</scope>
     </dependency>
     <dependency>
